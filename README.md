@@ -1,7 +1,7 @@
 
-# ⚡ FlashShare
+# ⚡ Quick-Share
 
-Welcome to **FlashShare** — the fastest and easiest way to share files with anyone, anytime. Send large files securely with a simple link, no account required.
+Welcome to **QuickShare** — the fastest and easiest way to share files with anyone, anytime. Send large files securely with a simple link, no account required.
 
 <Button>🚀 Get Started</Button>
 
@@ -15,5 +15,3 @@ Welcome to **FlashShare** — the fastest and easiest way to share files with an
 - **No Sign Up Needed** — Just upload and share.
 
 ---
-
-# Quick-Share
